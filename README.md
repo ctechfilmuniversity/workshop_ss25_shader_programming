@@ -1,1 +1,1 @@
-# workshop_ss25_shader_programming
+[https://ctechfilmuniversity.github.io/workshop_ss25_shader_programming/](https://ctechfilmuniversity.github.io/workshop_ss25_shader_programming/)
